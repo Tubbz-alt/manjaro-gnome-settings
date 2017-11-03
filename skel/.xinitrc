@@ -9,9 +9,6 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
-export QT_QPA_PLATFORMTHEME="qt5ct"
-export EDITOR=/usr/bin/nano
-
 # merge in defaults and keymaps
 
 if [ -f $sysresources ]; then
