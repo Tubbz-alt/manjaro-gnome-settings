@@ -16,7 +16,7 @@ picture-uri='file:///usr/share/backgrounds/manjaro-gnome/manjaro-gnome-adapta-lo
 night-light-enabled=true
 
 [org.gnome.desktop.interface]
-cursor-theme='Breeze'
+cursor-theme='xcursor-breeze'
 document-font-name='Sans 11'
 enable-animations=true
 font-name='Noto Sans 11'
