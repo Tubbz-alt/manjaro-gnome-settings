@@ -5,8 +5,12 @@ WARNING(!) the autologin not work with this applied
 see here for more info.
 https://bugzilla.gnome.org/show_bug.cgi?id=782832
 
-If you don't want this simply remove this with :
+If you don't want this simply comment (#) the line into
 
-sudo rm /etc/gdm/PostLogin/Default
+/etc/gdm/PostLogin/Default
+
+like this
+
+#grep -q \"^AutomaticLoginEnable=True\" /etc/gdm/custom.conf || pkill -KILL -u gdm
 
 Manjaro Team
