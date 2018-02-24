@@ -22,7 +22,7 @@ enable-animations=true
 font-name='Noto Sans 11'
 gtk-im-module='gtk-im-context-simple'
 gtk-theme='Adapta-Nokto-Maia'
-icon-theme='Arc-Maia'
+icon-theme='Papirus-Adapta-Maia'
 monospace-font-name='Hack 11'
 
 [org.gnome.desktop.wm.preferences]
@@ -37,7 +37,7 @@ natural-scroll=false
 [org.gnome.shell]
 always-show-log-out=true
 favorite-apps=['firefox.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.gedit.desktop', 'gnome-terminal.desktop', 'pamac-manager.desktop', 'empathy.desktop', 'hexchat.desktop', 'org.gnome.Screenshot.desktop', 'gnome-tweak-tool.desktop', 'calamares.desktop', 'manjaro-architect.desktop']
-enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'gnomenu@panacier.gmail.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'TopIcons@phocean.net', 'manjaro-update@Chrysostomus']
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'gnomenu@panacier.gmail.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'appindicatorsupport@rgcjonas.gmail.com', 'manjaro-update@Chrysostomus']
 
 [org.gnome.shell.extensions.user-theme]
 name="Adapta-Nokto-Maia"
