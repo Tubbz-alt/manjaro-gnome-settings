@@ -56,6 +56,9 @@ visible-name='manjaro'
 [org.gnome.nautilus.icon-view]
 default-zoom-level='small'
 
+[org.gnome.nautilus.preferences]
+thumbnail-limit=1073741824
+
 [org.gnome.gedit.preferences.editor]
 auto-indent=true
 editor-font='Hack 12'
