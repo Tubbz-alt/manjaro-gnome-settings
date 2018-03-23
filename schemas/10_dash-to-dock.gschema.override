@@ -8,4 +8,10 @@ dash-max-icon-size=32
 dock-fixed=true 
 extend-height=true
 show-apps-at-top=false
-
+background-color='#13191c'
+background-opacity=0.3
+custom-background-color=true
+customize-alphas=true
+max-alpha=1
+min-alpha=0
+transparency-mode='ADAPTIVE'
