@@ -71,9 +71,6 @@ use-default-font=false
 [org.gnome.settings-daemon.plugins.xsettings]
 antialiasing='rgba'
 
-[org.gnome.login-screen]
-logo='/usr/share/icons/manjaro.png'
-
 [org.gtk.Settings.FileChooser]
 sort-directories-first=true
 
